@@ -1,4 +1,5 @@
-React + Docker + Nginx 
+# React + Docker + Nginx 
+## Running Nginx for production suited environment 
 
 <img src="public/1.png">
 
